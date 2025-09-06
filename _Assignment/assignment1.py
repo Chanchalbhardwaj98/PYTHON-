@@ -20,3 +20,4 @@ city = "Bulandshahr"
 print("My name is" ,name, "from", city, "& I'm", age, "year old")
 print(f"My name is {name} from {city} & I'm {age} year old")  # f is formated string 
 
+
